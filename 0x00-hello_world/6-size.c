@@ -1,6 +1,6 @@
 #include <stdio>
-/** 
- * main - Size of data types
+/**
+ * main - sizeof datatypes
  *
  * Return: Always 0 (Success)
  */
